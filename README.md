@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Embedding Ethics in the CS Curriculum
 
-You can use the [editor on GitHub](https://github.com/CitadelCS/embedding-ethics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The impact of ethics touches all aspects of computing, from the professional side populated by graduates of Computer Science programs, to the user side, populated by every type of person all over the world. It is critical that computing education prepare its students not only for ethical impacts in their careers, but also for the health of the Internet at world scale.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Citadel
 
-### Markdown
+Our mission is to prepare students to meet the computing demands they will face in their careers and as knowledgeable citizens. Through academic programs, research, and public service the department supports the disciplines of cyber and computer science and the growth and development of educational opportunities in the Lowcountry.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CitadelCS/embedding-ethics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![CCS Logo](img/ccs-logo.png)
